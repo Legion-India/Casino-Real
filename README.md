@@ -1,2 +1,2 @@
 # Casino-Real
-I need friends and or a life
+I need friends and/or a life
