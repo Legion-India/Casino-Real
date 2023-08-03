@@ -13,6 +13,11 @@ public class UI_Input : MonoBehaviour
     private void Awake(){
         inputField = transform.Find("inputField").GetComponent<TMP_InputField>();
     }
+
+    public void Show(string inputString){
+
+        inputField.text = inputString;
+    }
     // Start is called before the first frame update
     void Start()
     {
